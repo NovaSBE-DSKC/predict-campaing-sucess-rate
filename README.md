@@ -37,3 +37,9 @@
 `pip install -r requirements.txt`
 
 `python -m spacy download en `
+
+
+### Authors
+
++ Eduardo Hidalgo: eduardo.garcia@novasbe.pt
++ Miguel Matos: miguel.matos@novsabe.pt

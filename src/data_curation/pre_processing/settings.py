@@ -1,0 +1,2 @@
+
+REWARD_SLOTS = 6

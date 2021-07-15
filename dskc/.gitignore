@@ -1,0 +1,5 @@
+
+*.pyc
+
+clean/.ipynb_checkpoints/
+**/*.ipynb_checkpoints/
